@@ -1,0 +1,1 @@
+# mangadex-latest-genre
